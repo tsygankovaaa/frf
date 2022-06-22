@@ -1,0 +1,16 @@
+C:\Users\Huawei\source\repos\калькулятор_дробей\калькулятор_дробей\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Huawei\source\repos\калькулятор_дробей\калькулятор_дробей\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Huawei\source\repos\калькулятор_дробей\калькулятор_дробей\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Huawei\source\repos\калькулятор_дробей\калькулятор_дробей\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Huawei\source\repos\калькулятор_дробей\калькулятор_дробей\bin\Debug\калькулятор_дробей.exe.config
+C:\Users\Huawei\source\repos\калькулятор_дробей\калькулятор_дробей\bin\Debug\калькулятор_дробей.exe
+C:\Users\Huawei\source\repos\калькулятор_дробей\калькулятор_дробей\bin\Debug\калькулятор_дробей.pdb
+C:\Users\Huawei\source\repos\калькулятор_дробей\калькулятор_дробей\bin\Debug\UnitTestProject1.dll
+C:\Users\Huawei\source\repos\калькулятор_дробей\калькулятор_дробей\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Huawei\source\repos\калькулятор_дробей\калькулятор_дробей\bin\Debug\UnitTestProject1.pdb
+C:\Users\Huawei\source\repos\калькулятор_дробей\калькулятор_дробей\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Huawei\source\repos\калькулятор_дробей\калькулятор_дробей\obj\Debug\калькулятор_дробей.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\калькулятор_дробей\калькулятор_дробей\obj\Debug\калькулятор_дробей.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\калькулятор_дробей\калькулятор_дробей\obj\Debug\калькулятор_дробей.csproj.CopyComplete
+C:\Users\Huawei\source\repos\калькулятор_дробей\калькулятор_дробей\obj\Debug\калькулятор_дробей.exe
+C:\Users\Huawei\source\repos\калькулятор_дробей\калькулятор_дробей\obj\Debug\калькулятор_дробей.pdb

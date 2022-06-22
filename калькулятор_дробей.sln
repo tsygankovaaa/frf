@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "калькулятор_дробей", "калькулятор_дробей\калькулятор_дробей.csproj", "{E7CA70B7-A8C0-4224-BF6A-44FA6DAEB5C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{465DF599-516B-4842-8F14-87478763D6CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7CA70B7-A8C0-4224-BF6A-44FA6DAEB5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7CA70B7-A8C0-4224-BF6A-44FA6DAEB5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7CA70B7-A8C0-4224-BF6A-44FA6DAEB5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7CA70B7-A8C0-4224-BF6A-44FA6DAEB5C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{465DF599-516B-4842-8F14-87478763D6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465DF599-516B-4842-8F14-87478763D6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465DF599-516B-4842-8F14-87478763D6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465DF599-516B-4842-8F14-87478763D6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEEBD6FE-02CA-45CD-8AAB-2E73958125AC}
+	EndGlobalSection
+EndGlobal
